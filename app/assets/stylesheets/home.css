@@ -1,0 +1,35 @@
+/*font-family: 'Baloo Chettan', cursive;*/
+/*font-family: 'Righteous', cursive;*/
+/*font-family: 'Timmana', sans-serif;*/
+
+.header-picture{
+    height: 740px;
+    width: 100%;
+    background-image:url("header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+
+}
+
+.header-info {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    vertical-align: middle;
+    padding: 200px;
+    
+    
+}
+
+.header-info-h{
+    color:#E8811A;
+    font-size: 80pt;
+}
+
+.header-info-p {
+    color:#E8811A;
+    font-size: 40pt;
+}
+
+
+/*# sourceMappingURL=home.css.map */

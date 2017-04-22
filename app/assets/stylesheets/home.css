@@ -33,3 +33,38 @@
 
 
 /*# sourceMappingURL=home.css.map */
+
+
+
+/*write html css파일입니다. */
+.secondpage {
+    text-align: left;
+}
+
+.secondpage-header {
+    height: 740px;
+    width: 100%;
+    background-image:url("secondheader2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    font-family: 'Righteous', Monospace;
+    font-weight: bold;
+    vertical-align: middle;
+    padding:300px;
+    color:#E8811A;
+}
+
+.mypicture {
+    height:50%;
+    
+    margin: auto;
+    padding:0px 80px;
+    
+}
+.modal-body img{
+    height: 100%;
+    width: 100%;
+    margin:auto;
+    padding:0;
+}

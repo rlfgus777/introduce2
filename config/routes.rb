@@ -2,9 +2,11 @@ Rails.application.routes.draw do
   
   root 'home#index'
   
+  post '/write' => 'home#write'
+  
+  get '/index' => 'home#write'
   
 
-  get 'home/write'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
